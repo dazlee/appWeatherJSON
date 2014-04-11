@@ -2,34 +2,34 @@
 <merger>
 
     <dataSet config="main" >
-        <source path="/Users/daz/AndroidStudioProjects/NetworkUsage/app/src/main/res" >
+        <source path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/NetworkUsage/app/src/main/res" >
             <file
                 name="ic_launcher"
-                path="/Users/daz/AndroidStudioProjects/NetworkUsage/app/src/main/res/drawable-hdpi/ic_launcher.png"
+                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/NetworkUsage/app/src/main/res/drawable-hdpi/ic_launcher.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="/Users/daz/AndroidStudioProjects/NetworkUsage/app/src/main/res/drawable-ldpi/ic_launcher.png"
+                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/NetworkUsage/app/src/main/res/drawable-ldpi/ic_launcher.png"
                 qualifiers="ldpi"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="/Users/daz/AndroidStudioProjects/NetworkUsage/app/src/main/res/drawable-mdpi/ic_launcher.png"
+                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/NetworkUsage/app/src/main/res/drawable-mdpi/ic_launcher.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="main"
-                path="/Users/daz/AndroidStudioProjects/NetworkUsage/app/src/main/res/layout/main.xml"
+                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/NetworkUsage/app/src/main/res/layout/main.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="mainmenu"
-                path="/Users/daz/AndroidStudioProjects/NetworkUsage/app/src/main/res/menu/mainmenu.xml"
+                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/NetworkUsage/app/src/main/res/menu/mainmenu.xml"
                 qualifiers=""
                 type="menu" />
             <file
-                path="/Users/daz/AndroidStudioProjects/NetworkUsage/app/src/main/res/values/arrays.xml"
+                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/NetworkUsage/app/src/main/res/values/arrays.xml"
                 qualifiers="" >
                 <string-array name="listValues" >
                     <item>
@@ -49,7 +49,7 @@ On any network
                 </string-array>
             </file>
             <file
-                path="/Users/daz/AndroidStudioProjects/NetworkUsage/app/src/main/res/values/strings.xml"
+                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/NetworkUsage/app/src/main/res/values/strings.xml"
                 qualifiers="" >
                 <string name="xml_error" >Error parsing XML.
                 </string>
@@ -72,15 +72,15 @@ On any network
             </file>
             <file
                 name="preferences"
-                path="/Users/daz/AndroidStudioProjects/NetworkUsage/app/src/main/res/xml/preferences.xml"
+                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/NetworkUsage/app/src/main/res/xml/preferences.xml"
                 qualifiers=""
                 type="xml" />
         </source>
-        <source path="/Users/daz/AndroidStudioProjects/NetworkUsage/app/build/res/rs/debug" />
-        <source path="/Users/daz/AndroidStudioProjects/NetworkUsage/app/build/res/generated/debug" />
+        <source path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/NetworkUsage/app/build/res/rs/debug" />
+        <source path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/NetworkUsage/app/build/res/generated/debug" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="/Users/daz/AndroidStudioProjects/NetworkUsage/app/src/debug/res" />
+        <source path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/NetworkUsage/app/src/debug/res" />
     </dataSet>
 
 </merger>

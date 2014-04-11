@@ -31,4 +31,4 @@
         android:summary="Show a summary for each link."
         android:key="summaryPref" />
 </PreferenceScreen>
-<!-- From: file:/Users/daz/AndroidStudioProjects/NetworkUsage/app/src/main/res/xml/preferences.xml -->
+<!-- From: file:/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/NetworkUsage/app/src/main/res/xml/preferences.xml -->

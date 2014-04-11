@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/Users/daz/AndroidStudioProjects/NetworkUsage/app/src/main/res/values/arrays.xml -->
+    <!-- From: file:/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/NetworkUsage/app/src/main/res/values/arrays.xml -->
     <eat-comment />
 
     <string-array name="listArray">
@@ -12,7 +12,7 @@
         <item>Wi-Fi</item>
         <item>Any</item>
     </string-array>
-    <!-- From: file:/Users/daz/AndroidStudioProjects/NetworkUsage/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/NetworkUsage/app/src/main/res/values/strings.xml -->
     <eat-comment />
 
     <string name="app_name">NetworkUsage</string>

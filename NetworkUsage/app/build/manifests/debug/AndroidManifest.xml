@@ -13,7 +13,7 @@
   See the License for the specific language governing permissions and
   limitations under the License.
   -->
-<!-- From: file:/Users/daz/AndroidStudioProjects/NetworkUsage/app/src/main/AndroidManifest.xml -->
+<!-- From: file:/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/NetworkUsage/app/src/main/AndroidManifest.xml -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.example.android.networkusage">
 
     <uses-sdk android:minSdkVersion="4" android:targetSdkVersion="14"/>
