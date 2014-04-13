@@ -74,6 +74,7 @@ int id stop_updates 0x7f050010
 int id terrain 0x7f050003
 int id text_connection_state 0x7f05000c
 int id text_connection_status 0x7f05000b
+int id weather_data_place_holder 0x7f050011
 int integer google_play_services_version 0x7f070000
 int layout activity_main 0x7f030000
 int string IO_Exception_getFromLocation 0x7f080000

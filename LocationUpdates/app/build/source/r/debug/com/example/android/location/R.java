@@ -217,6 +217,7 @@ containing a value of this type.
         public static final int terrain=0x7f050003;
         public static final int text_connection_state=0x7f05000c;
         public static final int text_connection_status=0x7f05000b;
+        public static final int weather_data_place_holder=0x7f050011;
     }
     public static final class integer {
         public static final int google_play_services_version=0x7f070000;

@@ -85,19 +85,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="import-summary.txt" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="import-summary.txt" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/import-summary.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="0" selection-start="273" selection-end="273" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="600">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NetworkActivity.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/networkusage/NetworkActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="353" column="35" selection-start="14078" selection-end="14078" vertical-scroll-proportion="0.4323144" vertical-offset="4263" max-vertical-offset="4950">
+            <state line="8" column="0" selection-start="273" selection-end="273" vertical-scroll-proportion="0.1744186" vertical-offset="0" max-vertical-offset="688">
               <folding />
             </state>
           </provider>
@@ -107,9 +98,7 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/networkusage/WeatherJsonParser.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="23" column="0" selection-start="620" selection-end="620" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="1380">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -835,7 +824,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -978,6 +966,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1020,19 +1009,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -1058,6 +1034,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -1172,7 +1161,7 @@
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972136" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.03768506" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.036339164" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1216,6 +1205,44 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/networkusage/NetworkActivity.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="341" column="12" selection-start="13623" selection-end="13623" vertical-scroll-proportion="0.0" vertical-offset="4950" max-vertical-offset="4950">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/networkusage/WeatherJsonParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="0" selection-start="620" selection-end="620" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="1380">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/networkusage/StackOverflowXmlParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="21" selection-start="1221" selection-end="1226" vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="2625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="426" selection-end="426" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="270">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/import-summary.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="273" selection-end="273" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="600">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/networkusage/NetworkActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="245" column="44" selection-start="9342" selection-end="9342" vertical-scroll-proportion="0.0" vertical-offset="3675" max-vertical-offset="5685">
           <folding />
         </state>
@@ -1224,9 +1251,7 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/networkusage/WeatherJsonParser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="75" column="42" selection-start="2171" selection-end="2171" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="1380">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1264,9 +1289,7 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/networkusage/WeatherJsonParser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="36" column="0" selection-start="949" selection-end="949" vertical-scroll-proportion="0.0" vertical-offset="565" max-vertical-offset="1380">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1304,9 +1327,7 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/networkusage/WeatherJsonParser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="40" column="0" selection-start="1077" selection-end="1077" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="1380">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1348,13 +1369,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/import-summary.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="273" selection-end="273" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/networkusage/StackOverflowXmlParser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="36" column="21" selection-start="1221" selection-end="1226" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2325">
@@ -1375,15 +1389,20 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/networkusage/WeatherJsonParser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="0" selection-start="620" selection-end="620" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="1380">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/networkusage/NetworkActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="353" column="35" selection-start="14078" selection-end="14078" vertical-scroll-proportion="0.4323144" vertical-offset="4263" max-vertical-offset="4950">
+        <state line="127" column="26" selection-start="4531" selection-end="4531" vertical-scroll-proportion="-3.7093024" vertical-offset="3722" max-vertical-offset="4950">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/import-summary.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="273" selection-end="273" vertical-scroll-proportion="0.1744186" vertical-offset="0" max-vertical-offset="688">
           <folding />
         </state>
       </provider>
