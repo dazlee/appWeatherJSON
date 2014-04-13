@@ -60,8 +60,10 @@ import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Calendar;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Locale;
+import java.util.Map;
 
 /**
  * This the app's main Activity. It provides buttons for requesting the various features of the
@@ -93,7 +95,8 @@ public class MainActivity extends FragmentActivity implements
     private ProgressBar mActivityIndicator;
     private TextView mConnectionState;
     private TextView mConnectionStatus;
-    private int currentCity;
+    private Integer currentCity;
+    private Map<String, Integer> CITYCODEMAP;
 
     // Handle to SharedPreferences for this app
     SharedPreferences mPrefs;
@@ -151,6 +154,10 @@ public class MainActivity extends FragmentActivity implements
          * handle callbacks.
          */
         mLocationClient = new LocationClient(this, this, this);
+
+        //create city to code mapping
+        CITYCODEMAP = new HashMap<String, Integer>();
+        CITYCODEMAP.put("Taipei City", 0); //move this configuration to a single file
 
     }
 
@@ -561,6 +568,7 @@ public class MainActivity extends FragmentActivity implements
 
                     // Get the first address
                     Address address = addresses.get(0);
+<<<<<<< HEAD
 if (address.getLocality() == null) {
     Log.d("City is", "null");
 } else {
@@ -572,6 +580,9 @@ if (address.getLocality() == null) {
     Log.d("City is", city);
     currentCity = 0;
 }
+=======
+
+>>>>>>> ef6827bedb80f6bad2f2cec675308d582dc08efa
                     // Format the first line of address
                     String addressText = getString(R.string.address_output_string,
 
@@ -585,6 +596,14 @@ if (address.getLocality() == null) {
                             // The country of the address
                             address.getCountryName()
                     );
+
+                    //setting the city information for taiwan
+                    if (address.getAdminArea() == null) {
+                        Log.d("City Error", "cannot get the city information");
+                    } else {
+                        String adminArea = address.getAdminArea();
+                        currentCity = CITYCODEMAP.get(adminArea);
+                    }
 
                     // Return the text
                     return addressText;
@@ -618,17 +637,21 @@ if (address.getLocality() == null) {
     }
 
     protected class GetWeatherTask extends AsyncTask <Integer, Void, String> {
-        Context cityContext;
+        Context weatherContext;
 
         public GetWeatherTask (Context context) {
             super();
 
-            cityContext = context;
+            weatherContext = context;
         }
 
         @Override
         protected String doInBackground (Integer... city) {
+<<<<<<< HEAD
             String urlString = "http://192.168.1.5:3000/weatherJSON";
+=======
+            String urlString = "http://172.20.10.3:3000/weatherJSON?cityCode=" + currentCity.toString();
+>>>>>>> ef6827bedb80f6bad2f2cec675308d582dc08efa
             String weatherData = "";
             try {
                 weatherData = loadWeatherData(urlString);
