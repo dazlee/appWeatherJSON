@@ -561,14 +561,14 @@ public class MainActivity extends FragmentActivity implements
 
                     // Get the first address
                     Address address = addresses.get(0);
-if (address.getLocality() != null) {
+if (address.getLocality() == null) {
     Log.d("City is", "null");
 } else {
     int lines = address.getMaxAddressLineIndex();
     for (int i = 0; i < lines; i++) {
         Log.d("line:", address.getAddressLine(i));
     }
-    String city = address.getCountryName();
+    String city = address.getLocality();
     Log.d("City is", city);
     currentCity = 0;
 }
@@ -628,7 +628,7 @@ if (address.getLocality() != null) {
 
         @Override
         protected String doInBackground (Integer... city) {
-            String urlString = "http://localhost:3000/weatherJSON";
+            String urlString = "http://192.168.1.5:3000/weatherJSON";
             String weatherData = "";
             try {
                 weatherData = loadWeatherData(urlString);

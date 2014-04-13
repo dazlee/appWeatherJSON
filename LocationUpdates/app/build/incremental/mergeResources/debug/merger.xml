@@ -1,520 +1,520 @@
 <?xml version="1.0" encoding="utf-8"?>
 <merger xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" >
 
-    <dataSet config="ComGoogleAndroidGmsPlayServices4030.aar" >
-        <source path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res" >
+    <dataSet config="4.0.30" >
+        <source path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res" >
             <file
                 name="common_signin_btn_text_dark"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/color/common_signin_btn_text_dark.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/color/common_signin_btn_text_dark.xml"
                 qualifiers=""
                 type="color" />
             <file
                 name="common_signin_btn_text_light"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/color/common_signin_btn_text_light.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/color/common_signin_btn_text_light.xml"
                 qualifiers=""
                 type="color" />
             <file
                 name="common_signin_btn_icon_dark"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable/common_signin_btn_icon_dark.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable/common_signin_btn_icon_dark.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_light"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable/common_signin_btn_icon_light.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable/common_signin_btn_icon_light.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="common_signin_btn_text_dark"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable/common_signin_btn_text_dark.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable/common_signin_btn_text_dark.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="common_signin_btn_text_light"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable/common_signin_btn_text_light.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable/common_signin_btn_text_light.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_dark"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-hdpi/common_signin_btn_icon_disabled_dark.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-hdpi/common_signin_btn_icon_disabled_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_focus_dark"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-hdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-hdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_focus_light"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-hdpi/common_signin_btn_icon_disabled_focus_light.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-hdpi/common_signin_btn_icon_disabled_focus_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_light"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-hdpi/common_signin_btn_icon_disabled_light.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-hdpi/common_signin_btn_icon_disabled_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_focus_dark"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-hdpi/common_signin_btn_icon_focus_dark.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-hdpi/common_signin_btn_icon_focus_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_focus_light"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-hdpi/common_signin_btn_icon_focus_light.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-hdpi/common_signin_btn_icon_focus_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_normal_dark"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-hdpi/common_signin_btn_icon_normal_dark.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-hdpi/common_signin_btn_icon_normal_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_normal_light"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-hdpi/common_signin_btn_icon_normal_light.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-hdpi/common_signin_btn_icon_normal_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_pressed_dark"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-hdpi/common_signin_btn_icon_pressed_dark.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-hdpi/common_signin_btn_icon_pressed_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_pressed_light"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-hdpi/common_signin_btn_icon_pressed_light.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-hdpi/common_signin_btn_icon_pressed_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_dark"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-hdpi/common_signin_btn_text_disabled_dark.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-hdpi/common_signin_btn_text_disabled_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_focus_dark"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-hdpi/common_signin_btn_text_disabled_focus_dark.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-hdpi/common_signin_btn_text_disabled_focus_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_focus_light"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-hdpi/common_signin_btn_text_disabled_focus_light.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-hdpi/common_signin_btn_text_disabled_focus_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_light"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-hdpi/common_signin_btn_text_disabled_light.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-hdpi/common_signin_btn_text_disabled_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_focus_dark"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-hdpi/common_signin_btn_text_focus_dark.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-hdpi/common_signin_btn_text_focus_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_focus_light"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-hdpi/common_signin_btn_text_focus_light.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-hdpi/common_signin_btn_text_focus_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_normal_dark"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-hdpi/common_signin_btn_text_normal_dark.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-hdpi/common_signin_btn_text_normal_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_normal_light"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-hdpi/common_signin_btn_text_normal_light.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-hdpi/common_signin_btn_text_normal_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_pressed_dark"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-hdpi/common_signin_btn_text_pressed_dark.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-hdpi/common_signin_btn_text_pressed_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_pressed_light"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-hdpi/common_signin_btn_text_pressed_light.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-hdpi/common_signin_btn_text_pressed_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="ic_plusone_medium_off_client"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-hdpi/ic_plusone_medium_off_client.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-hdpi/ic_plusone_medium_off_client.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="ic_plusone_small_off_client"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-hdpi/ic_plusone_small_off_client.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-hdpi/ic_plusone_small_off_client.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="ic_plusone_standard_off_client"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-hdpi/ic_plusone_standard_off_client.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-hdpi/ic_plusone_standard_off_client.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="ic_plusone_tall_off_client"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-hdpi/ic_plusone_tall_off_client.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-hdpi/ic_plusone_tall_off_client.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_dark"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-mdpi/common_signin_btn_icon_disabled_dark.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-mdpi/common_signin_btn_icon_disabled_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_focus_dark"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-mdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-mdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_focus_light"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-mdpi/common_signin_btn_icon_disabled_focus_light.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-mdpi/common_signin_btn_icon_disabled_focus_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_light"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-mdpi/common_signin_btn_icon_disabled_light.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-mdpi/common_signin_btn_icon_disabled_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_focus_dark"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-mdpi/common_signin_btn_icon_focus_dark.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-mdpi/common_signin_btn_icon_focus_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_focus_light"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-mdpi/common_signin_btn_icon_focus_light.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-mdpi/common_signin_btn_icon_focus_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_normal_dark"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-mdpi/common_signin_btn_icon_normal_dark.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-mdpi/common_signin_btn_icon_normal_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_normal_light"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-mdpi/common_signin_btn_icon_normal_light.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-mdpi/common_signin_btn_icon_normal_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_pressed_dark"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-mdpi/common_signin_btn_icon_pressed_dark.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-mdpi/common_signin_btn_icon_pressed_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_pressed_light"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-mdpi/common_signin_btn_icon_pressed_light.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-mdpi/common_signin_btn_icon_pressed_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_dark"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-mdpi/common_signin_btn_text_disabled_dark.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-mdpi/common_signin_btn_text_disabled_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_focus_dark"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-mdpi/common_signin_btn_text_disabled_focus_dark.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-mdpi/common_signin_btn_text_disabled_focus_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_focus_light"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-mdpi/common_signin_btn_text_disabled_focus_light.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-mdpi/common_signin_btn_text_disabled_focus_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_light"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-mdpi/common_signin_btn_text_disabled_light.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-mdpi/common_signin_btn_text_disabled_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_focus_dark"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-mdpi/common_signin_btn_text_focus_dark.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-mdpi/common_signin_btn_text_focus_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_focus_light"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-mdpi/common_signin_btn_text_focus_light.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-mdpi/common_signin_btn_text_focus_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_normal_dark"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-mdpi/common_signin_btn_text_normal_dark.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-mdpi/common_signin_btn_text_normal_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_normal_light"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-mdpi/common_signin_btn_text_normal_light.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-mdpi/common_signin_btn_text_normal_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_pressed_dark"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-mdpi/common_signin_btn_text_pressed_dark.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-mdpi/common_signin_btn_text_pressed_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_pressed_light"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-mdpi/common_signin_btn_text_pressed_light.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-mdpi/common_signin_btn_text_pressed_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="ic_plusone_medium_off_client"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-mdpi/ic_plusone_medium_off_client.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-mdpi/ic_plusone_medium_off_client.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="ic_plusone_small_off_client"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-mdpi/ic_plusone_small_off_client.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-mdpi/ic_plusone_small_off_client.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="ic_plusone_standard_off_client"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-mdpi/ic_plusone_standard_off_client.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-mdpi/ic_plusone_standard_off_client.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="ic_plusone_tall_off_client"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-mdpi/ic_plusone_tall_off_client.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-mdpi/ic_plusone_tall_off_client.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_dark"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-xhdpi/common_signin_btn_icon_disabled_dark.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-xhdpi/common_signin_btn_icon_disabled_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_focus_dark"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-xhdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-xhdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_focus_light"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-xhdpi/common_signin_btn_icon_disabled_focus_light.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-xhdpi/common_signin_btn_icon_disabled_focus_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_light"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-xhdpi/common_signin_btn_icon_disabled_light.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-xhdpi/common_signin_btn_icon_disabled_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_focus_dark"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-xhdpi/common_signin_btn_icon_focus_dark.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-xhdpi/common_signin_btn_icon_focus_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_focus_light"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-xhdpi/common_signin_btn_icon_focus_light.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-xhdpi/common_signin_btn_icon_focus_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_normal_dark"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-xhdpi/common_signin_btn_icon_normal_dark.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-xhdpi/common_signin_btn_icon_normal_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_normal_light"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-xhdpi/common_signin_btn_icon_normal_light.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-xhdpi/common_signin_btn_icon_normal_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_pressed_dark"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-xhdpi/common_signin_btn_icon_pressed_dark.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-xhdpi/common_signin_btn_icon_pressed_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_pressed_light"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-xhdpi/common_signin_btn_icon_pressed_light.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-xhdpi/common_signin_btn_icon_pressed_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_dark"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-xhdpi/common_signin_btn_text_disabled_dark.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-xhdpi/common_signin_btn_text_disabled_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_focus_dark"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-xhdpi/common_signin_btn_text_disabled_focus_dark.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-xhdpi/common_signin_btn_text_disabled_focus_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_focus_light"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-xhdpi/common_signin_btn_text_disabled_focus_light.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-xhdpi/common_signin_btn_text_disabled_focus_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_light"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-xhdpi/common_signin_btn_text_disabled_light.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-xhdpi/common_signin_btn_text_disabled_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_focus_dark"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-xhdpi/common_signin_btn_text_focus_dark.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-xhdpi/common_signin_btn_text_focus_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_focus_light"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-xhdpi/common_signin_btn_text_focus_light.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-xhdpi/common_signin_btn_text_focus_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_normal_dark"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-xhdpi/common_signin_btn_text_normal_dark.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-xhdpi/common_signin_btn_text_normal_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_normal_light"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-xhdpi/common_signin_btn_text_normal_light.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-xhdpi/common_signin_btn_text_normal_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_pressed_dark"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-xhdpi/common_signin_btn_text_pressed_dark.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-xhdpi/common_signin_btn_text_pressed_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_pressed_light"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-xhdpi/common_signin_btn_text_pressed_light.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-xhdpi/common_signin_btn_text_pressed_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="ic_plusone_medium_off_client"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-xhdpi/ic_plusone_medium_off_client.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-xhdpi/ic_plusone_medium_off_client.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="ic_plusone_small_off_client"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-xhdpi/ic_plusone_small_off_client.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-xhdpi/ic_plusone_small_off_client.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="ic_plusone_standard_off_client"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-xhdpi/ic_plusone_standard_off_client.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-xhdpi/ic_plusone_standard_off_client.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="ic_plusone_tall_off_client"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-xhdpi/ic_plusone_tall_off_client.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-xhdpi/ic_plusone_tall_off_client.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_dark"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-xxhdpi/common_signin_btn_icon_disabled_dark.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-xxhdpi/common_signin_btn_icon_disabled_dark.9.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_focus_dark"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_focus_light"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_light.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_light.9.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_light"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-xxhdpi/common_signin_btn_icon_disabled_light.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-xxhdpi/common_signin_btn_icon_disabled_light.9.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_focus_dark"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-xxhdpi/common_signin_btn_icon_focus_dark.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-xxhdpi/common_signin_btn_icon_focus_dark.9.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_focus_light"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-xxhdpi/common_signin_btn_icon_focus_light.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-xxhdpi/common_signin_btn_icon_focus_light.9.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_normal_dark"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-xxhdpi/common_signin_btn_icon_normal_dark.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-xxhdpi/common_signin_btn_icon_normal_dark.9.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_normal_light"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-xxhdpi/common_signin_btn_icon_normal_light.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-xxhdpi/common_signin_btn_icon_normal_light.9.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_pressed_dark"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-xxhdpi/common_signin_btn_icon_pressed_dark.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-xxhdpi/common_signin_btn_icon_pressed_dark.9.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_pressed_light"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-xxhdpi/common_signin_btn_icon_pressed_light.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-xxhdpi/common_signin_btn_icon_pressed_light.9.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_dark"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-xxhdpi/common_signin_btn_text_disabled_dark.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-xxhdpi/common_signin_btn_text_disabled_dark.9.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_focus_dark"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_dark.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_dark.9.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_focus_light"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_light.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_light.9.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_light"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-xxhdpi/common_signin_btn_text_disabled_light.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-xxhdpi/common_signin_btn_text_disabled_light.9.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_focus_dark"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-xxhdpi/common_signin_btn_text_focus_dark.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-xxhdpi/common_signin_btn_text_focus_dark.9.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_focus_light"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-xxhdpi/common_signin_btn_text_focus_light.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-xxhdpi/common_signin_btn_text_focus_light.9.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_normal_dark"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-xxhdpi/common_signin_btn_text_normal_dark.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-xxhdpi/common_signin_btn_text_normal_dark.9.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_normal_light"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-xxhdpi/common_signin_btn_text_normal_light.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-xxhdpi/common_signin_btn_text_normal_light.9.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_pressed_dark"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-xxhdpi/common_signin_btn_text_pressed_dark.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-xxhdpi/common_signin_btn_text_pressed_dark.9.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_pressed_light"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-xxhdpi/common_signin_btn_text_pressed_light.9.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-xxhdpi/common_signin_btn_text_pressed_light.9.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="ic_plusone_medium_off_client"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-xxhdpi/ic_plusone_medium_off_client.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-xxhdpi/ic_plusone_medium_off_client.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="ic_plusone_small_off_client"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-xxhdpi/ic_plusone_small_off_client.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-xxhdpi/ic_plusone_small_off_client.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="ic_plusone_standard_off_client"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-xxhdpi/ic_plusone_standard_off_client.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-xxhdpi/ic_plusone_standard_off_client.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="ic_plusone_tall_off_client"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/drawable-xxhdpi/ic_plusone_tall_off_client.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/drawable-xxhdpi/ic_plusone_tall_off_client.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values/ads_attrs.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values/ads_attrs.xml"
                 qualifiers="" >
                 <declare-styleable name="AdsAttrs" >
 
@@ -534,7 +534,7 @@
                 </declare-styleable>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values/colors.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values/colors.xml"
                 qualifiers="" >
                 <color name="common_signin_btn_light_text_pressed" >@android:color/white
                 </color>
@@ -558,7 +558,7 @@
                 </color>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values/maps_attrs.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values/maps_attrs.xml"
                 qualifiers="" >
                 <declare-styleable name="MapAttrs" >
                     <attr
@@ -622,7 +622,7 @@
                 </declare-styleable>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values/strings.xml"
                 qualifiers="" >
                 <string name="common_google_play_services_unsupported_text" >Google Play services, which some of your applications rely on, is not supported by your device. Please contact the manufacturer for assistance.
                 </string>
@@ -700,14 +700,14 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values/version.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values/version.xml"
                 qualifiers="" >
                 <integer name="google_play_services_version" >
 4030500
                 </integer>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-af/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-af/strings.xml"
                 qualifiers="af" >
                 <string
                     name="common_google_play_services_network_error_title"
@@ -818,7 +818,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-am/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-am/strings.xml"
                 qualifiers="am" >
                 <string
                     name="common_google_play_services_install_text_phone"
@@ -929,7 +929,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-ar/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-ar/strings.xml"
                 qualifiers="ar" >
                 <string
                     name="common_signin_button_text"
@@ -1040,7 +1040,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-be/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-be/strings.xml"
                 qualifiers="be" >
                 <string
                     name="common_google_play_services_update_title"
@@ -1131,7 +1131,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-bg/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-bg/strings.xml"
                 qualifiers="bg" >
                 <string
                     name="common_google_play_services_network_error_title"
@@ -1242,7 +1242,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-ca/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-ca/strings.xml"
                 qualifiers="ca" >
                 <string
                     name="auth_client_needs_installation_title"
@@ -1353,7 +1353,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-cs/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-cs/strings.xml"
                 qualifiers="cs" >
                 <string
                     name="common_google_play_services_update_button"
@@ -1464,7 +1464,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-da/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-da/strings.xml"
                 qualifiers="da" >
                 <string
                     name="common_google_play_services_update_text"
@@ -1575,7 +1575,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-de/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-de/strings.xml"
                 qualifiers="de" >
                 <string
                     name="common_google_play_services_enable_button"
@@ -1686,7 +1686,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-el/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-el/strings.xml"
                 qualifiers="el" >
                 <string
                     name="common_google_play_services_update_title"
@@ -1797,7 +1797,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-en-rGB/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-en-rGB/strings.xml"
                 qualifiers="en-rGB" >
                 <string
                     name="common_google_play_services_unsupported_text"
@@ -1908,7 +1908,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-en-rIN/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-en-rIN/strings.xml"
                 qualifiers="en-rIN" >
                 <string
                     name="common_google_play_services_install_button"
@@ -2019,7 +2019,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-es/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-es/strings.xml"
                 qualifiers="es" >
                 <string
                     name="auth_client_requested_by_msg"
@@ -2130,7 +2130,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-es-rUS/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-es-rUS/strings.xml"
                 qualifiers="es-rUS" >
                 <string
                     name="common_google_play_services_install_text_tablet"
@@ -2241,7 +2241,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-et/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-et/strings.xml"
                 qualifiers="et" >
                 <string
                     name="common_google_play_services_enable_title"
@@ -2352,7 +2352,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-et-rEE/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-et-rEE/strings.xml"
                 qualifiers="et-rEE" >
                 <string
                     name="common_google_play_services_unsupported_text"
@@ -2463,7 +2463,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-fa/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-fa/strings.xml"
                 qualifiers="fa" >
                 <string
                     name="common_google_play_services_invalid_account_title"
@@ -2574,7 +2574,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-fi/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-fi/strings.xml"
                 qualifiers="fi" >
                 <string
                     name="common_signin_button_text_long"
@@ -2685,7 +2685,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-fr/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-fr/strings.xml"
                 qualifiers="fr" >
                 <string
                     name="common_google_play_services_network_error_text"
@@ -2796,7 +2796,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-fr-rCA/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-fr-rCA/strings.xml"
                 qualifiers="fr-rCA" >
                 <string
                     name="common_google_play_services_unsupported_text"
@@ -2907,7 +2907,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-hi/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-hi/strings.xml"
                 qualifiers="hi" >
                 <string
                     name="common_google_play_services_unknown_issue"
@@ -3018,7 +3018,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-hr/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-hr/strings.xml"
                 qualifiers="hr" >
                 <string
                     name="common_google_play_services_update_button"
@@ -3129,7 +3129,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-hu/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-hu/strings.xml"
                 qualifiers="hu" >
                 <string
                     name="common_google_play_services_enable_text"
@@ -3240,7 +3240,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-hy-rAM/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-hy-rAM/strings.xml"
                 qualifiers="hy-rAM" >
                 <string
                     name="auth_client_play_services_err_notification_msg"
@@ -3351,7 +3351,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-in/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-in/strings.xml"
                 qualifiers="in" >
                 <string
                     name="common_google_play_services_unsupported_title"
@@ -3462,7 +3462,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-it/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-it/strings.xml"
                 qualifiers="it" >
                 <string
                     name="auth_client_play_services_err_notification_msg"
@@ -3573,7 +3573,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-iw/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-iw/strings.xml"
                 qualifiers="iw" >
                 <string
                     name="common_google_play_services_install_text_tablet"
@@ -3684,7 +3684,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-ja/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-ja/strings.xml"
                 qualifiers="ja" >
                 <string
                     name="auth_client_needs_installation_title"
@@ -3795,7 +3795,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-ka-rGE/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-ka-rGE/strings.xml"
                 qualifiers="ka-rGE" >
                 <string
                     name="common_google_play_services_enable_button"
@@ -3906,7 +3906,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-km-rKH/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-km-rKH/strings.xml"
                 qualifiers="km-rKH" >
                 <string
                     name="common_google_play_services_unsupported_text"
@@ -4017,7 +4017,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-ko/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-ko/strings.xml"
                 qualifiers="ko" >
                 <string
                     name="common_google_play_services_unsupported_date_text"
@@ -4128,7 +4128,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-lo-rLA/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-lo-rLA/strings.xml"
                 qualifiers="lo-rLA" >
                 <string
                     name="common_google_play_services_unsupported_title"
@@ -4239,7 +4239,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-lt/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-lt/strings.xml"
                 qualifiers="lt" >
                 <string
                     name="common_google_play_services_install_text_phone"
@@ -4350,7 +4350,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-lv/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-lv/strings.xml"
                 qualifiers="lv" >
                 <string
                     name="common_google_play_services_enable_text"
@@ -4461,7 +4461,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-mn-rMN/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-mn-rMN/strings.xml"
                 qualifiers="mn-rMN" >
                 <string
                     name="common_google_play_services_update_text"
@@ -4572,7 +4572,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-ms/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-ms/strings.xml"
                 qualifiers="ms" >
                 <string
                     name="auth_client_needs_update_title"
@@ -4683,7 +4683,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-ms-rMY/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-ms-rMY/strings.xml"
                 qualifiers="ms-rMY" >
                 <string
                     name="common_signin_button_text_long"
@@ -4781,6 +4781,10 @@
                     msgid="26645092511305524" >"Dapatkan perkhidmatan Google Play"
                 </string>
                 <string
+                    name="common_google_play_services_unsupported_date_text"
+                    msgid="4725396522367789365" >"Tarikh pada peranti kelihatan tidak betul. Sila semak tarikh pada peranti."
+                </string>
+                <string
                     name="common_signin_button_text"
                     msgid="9071884888741449141" >"Log masuk"
                 </string>
@@ -4788,13 +4792,9 @@
                     name="auth_client_needs_installation_title"
                     msgid="7999585836145154206" >"Perkhidmatan Google Play perlu dipasang untuk mengguankan aplikasi."
                 </string>
-                <string
-                    name="common_google_play_services_unsupported_date_text"
-                    msgid="4725396522367789365" >"Tarikh pada peranti kelihatan tidak betul. Sila semak tarikh pada peranti."
-                </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-nb/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-nb/strings.xml"
                 qualifiers="nb" >
                 <string
                     name="common_google_play_services_install_text_phone"
@@ -4905,7 +4905,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-nl/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-nl/strings.xml"
                 qualifiers="nl" >
                 <string
                     name="auth_client_using_bad_version_title"
@@ -5016,7 +5016,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-pl/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-pl/strings.xml"
                 qualifiers="pl" >
                 <string
                     name="auth_client_needs_enabling_title"
@@ -5127,7 +5127,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-pt/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-pt/strings.xml"
                 qualifiers="pt" >
                 <string
                     name="common_google_play_services_invalid_account_title"
@@ -5238,7 +5238,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-pt-rBR/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-pt-rBR/strings.xml"
                 qualifiers="pt-rBR" >
                 <string
                     name="common_google_play_services_enable_button"
@@ -5349,7 +5349,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-pt-rPT/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-pt-rPT/strings.xml"
                 qualifiers="pt-rPT" >
                 <string
                     name="common_google_play_services_network_error_text"
@@ -5460,7 +5460,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-ro/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-ro/strings.xml"
                 qualifiers="ro" >
                 <string
                     name="common_google_play_services_install_text_phone"
@@ -5571,7 +5571,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-ru/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-ru/strings.xml"
                 qualifiers="ru" >
                 <string
                     name="common_google_play_services_enable_text"
@@ -5682,7 +5682,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-sk/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-sk/strings.xml"
                 qualifiers="sk" >
                 <string
                     name="auth_client_play_services_err_notification_msg"
@@ -5793,7 +5793,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-sl/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-sl/strings.xml"
                 qualifiers="sl" >
                 <string
                     name="common_google_play_services_enable_button"
@@ -5904,7 +5904,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-sr/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-sr/strings.xml"
                 qualifiers="sr" >
                 <string
                     name="auth_client_needs_installation_title"
@@ -6015,7 +6015,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-sv/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-sv/strings.xml"
                 qualifiers="sv" >
                 <string
                     name="common_google_play_services_install_text_tablet"
@@ -6126,7 +6126,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-sw/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-sw/strings.xml"
                 qualifiers="sw" >
                 <string
                     name="auth_client_requested_by_msg"
@@ -6237,7 +6237,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-th/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-th/strings.xml"
                 qualifiers="th" >
                 <string
                     name="auth_client_requested_by_msg"
@@ -6348,7 +6348,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-tl/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-tl/strings.xml"
                 qualifiers="tl" >
                 <string
                     name="auth_client_play_services_err_notification_msg"
@@ -6459,7 +6459,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-tr/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-tr/strings.xml"
                 qualifiers="tr" >
                 <string
                     name="common_google_play_services_invalid_account_title"
@@ -6570,7 +6570,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-uk/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-uk/strings.xml"
                 qualifiers="uk" >
                 <string
                     name="common_google_play_services_invalid_account_title"
@@ -6681,7 +6681,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-vi/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-vi/strings.xml"
                 qualifiers="vi" >
                 <string
                     name="common_google_play_services_install_text_phone"
@@ -6792,7 +6792,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-zh-rCN/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-zh-rCN/strings.xml"
                 qualifiers="zh-rCN" >
                 <string
                     name="common_google_play_services_enable_button"
@@ -6903,7 +6903,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-zh-rHK/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-zh-rHK/strings.xml"
                 qualifiers="zh-rHK" >
                 <string
                     name="common_google_play_services_install_title"
@@ -7014,7 +7014,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-zh-rTW/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-zh-rTW/strings.xml"
                 qualifiers="zh-rTW" >
                 <string
                     name="auth_client_needs_enabling_title"
@@ -7125,7 +7125,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-bundles/ComGoogleAndroidGmsPlayServices4030.aar/res/values-zu/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/exploded-aar/com.google.android.gms/play-services/4.0.30/res/values-zu/strings.xml"
                 qualifiers="zu" >
                 <string
                     name="common_google_play_services_enable_text"
@@ -7238,34 +7238,34 @@
         </source>
     </dataSet>
     <dataSet config="main" >
-        <source path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/src/main/res" >
+        <source path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/src/main/res" >
             <file
                 name="ic_launcher"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/src/main/res/drawable-hdpi/ic_launcher.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/src/main/res/drawable-hdpi/ic_launcher.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/src/main/res/drawable-mdpi/ic_launcher.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/src/main/res/drawable-mdpi/ic_launcher.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/src/main/res/drawable-xhdpi/ic_launcher.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="activity_main"
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/src/main/res/layout/activity_main.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/src/main/res/layout/activity_main.xml"
                 qualifiers=""
                 type="layout" />
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/src/main/res/values/dimens.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/src/main/res/values/dimens.xml"
                 qualifiers="" >
                 <dimen name="activity_horizontal_margin" >16dp
                 </dimen>
@@ -7273,7 +7273,14 @@
                 </dimen>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/src/main/res/values/lib_strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/src/main/res/values/integers.xml"
+                qualifiers="" >
+                <integer name="google_play_services_version" >
+4030500
+                </integer>
+            </file>
+            <file
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/src/main/res/values/lib_strings.xml"
                 qualifiers="" >
                 <string name="connection_error_outdated" >Google Play services is out of date
                 </string>
@@ -7305,7 +7312,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/src/main/res/values/strings.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/src/main/res/values/strings.xml"
                 qualifiers="" >
                 <string name="stop_updates" >Stop Updates
                 </string>
@@ -7385,7 +7392,7 @@
                 </string>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/src/main/res/values/styles.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/src/main/res/values/styles.xml"
                 qualifiers="" >
 
                 <style
@@ -7407,13 +7414,13 @@
                 </style>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/src/main/res/values-sw720dp-land/dimens.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/src/main/res/values-sw720dp-land/dimens.xml"
                 qualifiers="sw720dp-land" >
                 <dimen name="activity_horizontal_margin" >128dp
                 </dimen>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/src/main/res/values-v11/styles.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/src/main/res/values-v11/styles.xml"
                 qualifiers="v11" >
 
                 <style
@@ -7424,7 +7431,7 @@
                 </style>
             </file>
             <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/src/main/res/values-v14/styles.xml"
+                path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/src/main/res/values-v14/styles.xml"
                 qualifiers="v14" >
 
                 <style
@@ -7434,19 +7441,12 @@
                     <!-- API 14 theme customizations can go here. -->
                 </style>
             </file>
-            <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/src/main/res/values/integers.xml"
-                qualifiers="" >
-                <integer name="google_play_services_version" >
-4030500
-                </integer>
-            </file>
         </source>
-        <source path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/res/rs/debug" />
-        <source path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/res/generated/debug" />
+        <source path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/res/rs/debug" />
+        <source path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/res/generated/debug" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/src/debug/res" />
+        <source path="/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/src/debug/res" />
     </dataSet>
 
 </merger>

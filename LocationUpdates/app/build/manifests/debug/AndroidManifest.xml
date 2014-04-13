@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 -->
-<!-- From: file:/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/src/main/AndroidManifest.xml -->
+<!-- From: file:/Users/daz/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/src/main/AndroidManifest.xml -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.example.android.location">
 
     <uses-sdk android:minSdkVersion="8" android:targetSdkVersion="17"/>
