@@ -133,5 +133,13 @@
         android:text="@string/unknown"
         android:textIsSelectable="true"/>
 
+    <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/mymap"
+        android:layout_width="300dp"
+        android:layout_height="400dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/stop_updates"
+        android:name="com.google.android.gms.maps.SupportMapFragment"/>
+
 </RelativeLayout>
 <!-- From: file:/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/src/main/res/layout/activity_main.xml -->

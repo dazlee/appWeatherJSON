@@ -4781,16 +4781,16 @@
                     msgid="26645092511305524" >"Dapatkan perkhidmatan Google Play"
                 </string>
                 <string
+                    name="auth_client_needs_installation_title"
+                    msgid="7999585836145154206" >"Perkhidmatan Google Play perlu dipasang untuk mengguankan aplikasi."
+                </string>
+                <string
                     name="common_google_play_services_unsupported_date_text"
                     msgid="4725396522367789365" >"Tarikh pada peranti kelihatan tidak betul. Sila semak tarikh pada peranti."
                 </string>
                 <string
                     name="common_signin_button_text"
                     msgid="9071884888741449141" >"Log masuk"
-                </string>
-                <string
-                    name="auth_client_needs_installation_title"
-                    msgid="7999585836145154206" >"Perkhidmatan Google Play perlu dipasang untuk mengguankan aplikasi."
                 </string>
             </file>
             <file
@@ -7273,6 +7273,13 @@
                 </dimen>
             </file>
             <file
+                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/src/main/res/values/integers.xml"
+                qualifiers="" >
+                <integer name="google_play_services_version" >
+4030500
+                </integer>
+            </file>
+            <file
                 path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/src/main/res/values/lib_strings.xml"
                 qualifiers="" >
                 <string name="connection_error_outdated" >Google Play services is out of date
@@ -7433,13 +7440,6 @@
 
                     <!-- API 14 theme customizations can go here. -->
                 </style>
-            </file>
-            <file
-                path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/src/main/res/values/integers.xml"
-                qualifiers="" >
-                <integer name="google_play_services_version" >
-4030500
-                </integer>
             </file>
         </source>
         <source path="/Users/ktlee/Desktop/MusicTrackProject/appWeatherJSON/LocationUpdates/app/build/res/rs/debug" />

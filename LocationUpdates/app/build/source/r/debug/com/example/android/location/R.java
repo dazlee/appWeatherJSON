@@ -209,6 +209,7 @@ containing a value of this type.
         public static final int label_lat_lng=0x7f050006;
         public static final int lat_lng=0x7f050007;
         public static final int main_layout=0x7f050005;
+        public static final int mymap=0x7f050012;
         public static final int none=0x7f050000;
         public static final int normal=0x7f050001;
         public static final int satellite=0x7f050002;

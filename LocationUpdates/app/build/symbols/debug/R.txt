@@ -66,6 +66,7 @@ int id label_address 0x7f050008
 int id label_lat_lng 0x7f050006
 int id lat_lng 0x7f050007
 int id main_layout 0x7f050005
+int id mymap 0x7f050012
 int id none 0x7f050000
 int id normal 0x7f050001
 int id satellite 0x7f050002

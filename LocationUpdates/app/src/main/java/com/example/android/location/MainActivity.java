@@ -23,7 +23,14 @@ import com.google.android.gms.common.GooglePlayServicesUtil;
 import com.google.android.gms.location.LocationClient;
 import com.google.android.gms.location.LocationListener;
 import com.google.android.gms.location.LocationRequest;
+import com.google.android.gms.maps.GoogleMap;
+import com.google.android.gms.maps.MapFragment;
+import com.google.android.gms.maps.SupportMapFragment;
+import com.google.android.gms.maps.model.BitmapDescriptorFactory;
+import com.google.android.gms.maps.model.LatLng;
+import com.google.android.gms.maps.model.MarkerOptions;
 
+import android.app.FragmentTransaction;
 import android.content.IntentSender;
 import android.location.Address;
 import android.location.Geocoder;
@@ -98,6 +105,8 @@ public class MainActivity extends FragmentActivity implements
     private Integer currentCity;
     private Map<String, Integer> CITYCODEMAP;
 
+    private GoogleMap googleMap;
+
     // Handle to SharedPreferences for this app
     SharedPreferences mPrefs;
 
@@ -158,6 +167,10 @@ public class MainActivity extends FragmentActivity implements
         //create city to code mapping
         CITYCODEMAP = new HashMap<String, Integer>();
         CITYCODEMAP.put("Taipei City", 0); //move this configuration to a single file
+
+        SupportMapFragment mMapFragment = (SupportMapFragment) getSupportFragmentManager().findFragmentById(R.id.mymap);
+        googleMap = mMapFragment.getMap();
+        googleMap.setMyLocationEnabled(true);
 
     }
 
@@ -614,12 +627,81 @@ public class MainActivity extends FragmentActivity implements
             mAddress.setText(address);
 
             // Get the weather data from server
-            getWeatherData();
+            //getWeatherData();
+
+            // Get the YouBike data,
+            // TODO Move this out of getting address
+            getYouBikeData();
         }
     }
 
     private void getWeatherData () {
         (new MainActivity.GetWeatherTask(this)).execute(0);
+    }
+
+    private void getYouBikeData () {
+        Log.d("youbike","youbike");
+        (new MainActivity.GetYouBikeTask(this)).execute(0);
+    }
+
+    private void placeIcon (List<YouBikeEntry> youBikeEntries) {
+        for (YouBikeEntry entry : youBikeEntries) {
+            Log.d("youbike", "setting youy " + entry.station);
+            Log.d("youbike", "lat lng " + entry.lat.toString() + " " + entry.lng.toString());
+            MarkerOptions mo = new MarkerOptions();
+            mo.icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_AZURE));
+            mo.position(new LatLng(entry.lat, entry.lng));
+            mo.title(entry.station);
+            googleMap.addMarker(mo);
+        }
+    }
+
+    protected class GetYouBikeTask extends AsyncTask <Integer, Void, List<YouBikeEntry>> {
+        Context context;
+
+        public GetYouBikeTask (Context _context) {
+            super();
+
+            context = _context;
+        }
+
+        @Override
+        protected List<YouBikeEntry> doInBackground (Integer... integers) {
+            String urlString = "http://169.254.251.4:3000/youBikeJSON";
+            List<YouBikeEntry> entries = null;
+            try {
+                entries = loadYouBikeData(urlString);
+            } catch (IOException e) {
+                //print something if there's error
+            }
+
+            return entries;
+        }
+
+        protected void onPostExecute(List<YouBikeEntry> entries) {
+            placeIcon(entries);
+        }
+    }
+
+    private List<YouBikeEntry> loadYouBikeData (String urlString) throws IOException {
+        InputStream stream = null;
+        YouBikeJsonParser youBikeJsonParser = new YouBikeJsonParser();
+        List<YouBikeEntry> entries = null;
+
+
+        try {
+            stream = downloadUrl(urlString);
+            //entries = stackOverflowXmlParser.parse(stream);
+            entries = youBikeJsonParser.read(stream);
+            // Makes sure that the InputStream is closed after the app is
+            // finished using it.
+        } finally {
+            if (stream != null) {
+                stream.close();
+            }
+        }
+
+        return entries;
     }
 
     protected class GetWeatherTask extends AsyncTask <Integer, Void, String> {
@@ -664,6 +746,8 @@ public class MainActivity extends FragmentActivity implements
         return stream;
     }
 
+
+
     // Uploads XML from stackoverflow.com, parses it, and combines it with
     // HTML markup. Returns HTML string.
     private String loadWeatherData(String urlString) throws IOException {
@@ -700,6 +784,18 @@ public class MainActivity extends FragmentActivity implements
         public myEntry(String city, String forecast) {
             this.city = city;
             this.forecast = forecast;
+        }
+    }
+
+    public static class YouBikeEntry {
+        public final Double lat;
+        public final Double lng;
+        public final String station;
+
+        public YouBikeEntry(Double lat, Double lng, String station) {
+            this.lat = lat;
+            this.lng = lng;
+            this.station = station;
         }
     }
     /**
