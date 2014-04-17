@@ -581,7 +581,6 @@ public class MainActivity extends FragmentActivity implements
 
                     // Get the first address
                     Address address = addresses.get(0);
-
                     // Format the first line of address
                     String addressText = getString(R.string.address_output_string,
 
