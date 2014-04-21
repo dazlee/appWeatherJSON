@@ -626,7 +626,7 @@ public class MainActivity extends FragmentActivity implements
             mAddress.setText(address);
 
             // Get the weather data from server
-            //getWeatherData();
+            getWeatherData();
 
             // Get the YouBike data,
             // TODO Move this out of getting address
@@ -666,7 +666,7 @@ public class MainActivity extends FragmentActivity implements
 
         @Override
         protected List<YouBikeEntry> doInBackground (Integer... integers) {
-            String urlString = "http://169.254.251.4:3000/youBikeJSON";
+            String urlString = "http://192.168.1.8:3000/youBikeJSON";
             List<YouBikeEntry> entries = null;
             try {
                 entries = loadYouBikeData(urlString);
@@ -714,7 +714,7 @@ public class MainActivity extends FragmentActivity implements
 
         @Override
         protected String doInBackground (Integer... city) {
-            String urlString = "http://172.20.10.3:3000/weatherJSON?cityCode=" + currentCity.toString();
+            String urlString = "http://192.168.1.8:3000/weatherJSON?cityCode=" + currentCity.toString();
             String weatherData = "";
             try {
                 weatherData = loadWeatherData(urlString);
@@ -753,13 +753,15 @@ public class MainActivity extends FragmentActivity implements
         InputStream stream = null;
         WeatherJsonParser weatherJsonParser = new WeatherJsonParser();
         List<myEntry> entries = null;
+        myEntry weatherEntry = null;
 
         StringBuilder htmlString = new StringBuilder();
 
         try {
             stream = downloadUrl(urlString);
             //entries = stackOverflowXmlParser.parse(stream);
-            entries = weatherJsonParser.read(stream);
+            //entries = weatherJsonParser.read(stream);
+            weatherEntry = weatherJsonParser.read(stream);
             // Makes sure that the InputStream is closed after the app is
             // finished using it.
         } finally {
@@ -767,22 +769,35 @@ public class MainActivity extends FragmentActivity implements
                 stream.close();
             }
         }
-
+/*
         for (myEntry entry : entries) {
             htmlString.append("<p>");
             htmlString.append(entry.city);
             htmlString.append(" : " + entry.forecast + "</p>");
-        }
+        }*/
+        htmlString.append("<p> UV:");
+        htmlString.append(weatherEntry.uv);
+        htmlString.append(" condition:" + weatherEntry.condition);
+        htmlString.append(" temperature:" + weatherEntry.temperature + "度西");
+        htmlString.append(" feels like:" + weatherEntry.feeling);
+        htmlString.append(" Chance of Rain:" + weatherEntry.chanceOfRain + "%");
+        Log.v("asdfasdf", htmlString.toString());
         return htmlString.toString();
     }
 
     public static class myEntry {
-        public final String city;
-        public final String forecast;
+        public final String uv;
+        public final String condition;
+        public final String temperature;
+        public final String feeling;
+        public final String chanceOfRain;
 
-        public myEntry(String city, String forecast) {
-            this.city = city;
-            this.forecast = forecast;
+        public myEntry(String uv, String condition, String temperature, String feeling, String chanceOfRain) {
+            this.uv = uv;
+            this.condition = condition;
+            this.temperature = temperature;
+            this.feeling = feeling;
+            this.chanceOfRain = chanceOfRain;
         }
     }
 
